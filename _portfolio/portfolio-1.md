@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Leaders Images Classifier"
+excerpt: "Image classification<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Developed an end-to-end web service with an optimized image classifier and a responsive UI that classifies given images. Collected images, and performed data cleaning, feature engineering, predictive modeling, and deployment using Python, OpenCV, Scikit-learn, and cloud. 
