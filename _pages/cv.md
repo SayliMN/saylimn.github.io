@@ -11,30 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Science, University of Georgia, USA
+  * Coursework: Machine Learning, Privacy-Preserving Data Analysis, Algorithms, Biomedical Informatics, Cloud Computing, Database Management Systems
+* B.E. in Electronics and Telecommunication, University of Mumbai, India
 
-Work experience
+Relevant Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Data Analyst - Machine Learning (2020 - 2022)
+  * Location: Clinical Affective Neuroscience Laboratory, UGA, USA
+  * Supervisor: Professor Gregory Strauss
+  * Responsibilities: 
+    * Designed comprehensive experimental setups to classify the diagnostic status of Schizophrenia clinical trials and five negative symptom domains of SZ. 
+    * Performed data analysis, visualization, implemented data mining techniques and statistical analysis. 
+    * Optimized 10+ predictive models by fine-tuning hyper-parameters, and cross-validation. 
+    * Collaborated with researchers and lab members, actively contributing to discussions on future research directions.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Certifications 
+======
+* Machine Learning: From Data to Decisions by MIT Professional Education (2020)
+* Data Science Masters Program by GreyAtom (2018)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, SQL, R, JavaScript
+* ML Frameworks and libraries: TensorFlow, Keras, OpenCV, NLTK, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib
+* Dev Tools: VS code, Jupyter Notebook, Tableau, PyCharm
+* Dev Ops: Git, Github
+* AWS Services / Cloud: AWS Lambda, API Gateway, Cognito, DynamoDB, EventBridge, Stacks, CloudWatch, Step Function
+* Web Development: HTML5, CSS3, Tailwind CSS, Bootstrap, React
 
 Publications
 ======
