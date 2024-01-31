@@ -1,12 +1,12 @@
 ---
 title: "### User Interface identifies images of world renowned businessmen"
-excerpt: "<p style=" color:purple; font-size:15px;">Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization</p><br/>"
+excerpt: "#### Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization</p><br/>"
 collection: portfolio
 ---
 <ul>
     <li style="font-size:15px">Developed simple UI web service and an optimized image classifier that classifies web scraped images of 5 business leaders, displaying their classification scores on UI.</li>
     <li style="font-size:15px">Created and labeled cropped images dataset and performed feature extraction with wavelet transform 
-    <li style="font-size:15px">Optimized SVC, Random Forest and Logistic Regression models with gridSearchCV to improve performance and the computational cost, finally selecting SVC</li>
+    <li style="font-size:15px">Optimized multiple classifiers with gridSearchCV to improve performance and the computational cost, finally selecting best performing SVC model for classification</li>
 </ul>
 
 <p>
