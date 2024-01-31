@@ -1,11 +1,12 @@
 ---
-title: "## Machine Learning for psychotic disorders clinical trials"
-excerpt: "<br/>"
+title: "### Machine Learning for psychotic disorders clinical trials [Read more]"
+excerpt: "#### Classification, Predictive modeling, Data Visualization, Data mining<br/>"
 collection: portfolio
 ---
 
-> <span style="font-size:14px;">Achieved ~80% accuracy with the optimized random forest model outperforming KNN and logistic regression models</span>
-> <span style="font-size:15px;">Implemented feature selection across 9 machine learning methods and statistical tests to comprehensively assess and identify most relevant predictors in Schizophrenia diagnosis</span>
+<span style="font-size:15px;">* Performed feature selection across 9 machine learning models and statistical tests to comprehensively assess and identify the most relevant predictors in Schizophrenia diagnosis</span>
+<span style="font-size:15px;">* Optimized classifiers and feature selection models by fine-tuning hyper-parameters with randomizedSearchCV and implementing cross-validation techniques</span>
+<span style="font-size:15px;">* Achieved ~80% accuracy with the optimized random forest model outperforming KNN and logistic regression models</span>
 
 
 <p>
