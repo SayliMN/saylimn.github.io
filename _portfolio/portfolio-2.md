@@ -1,12 +1,14 @@
 ---
 title: "### Google stock price prediction"
-excerpt: "### Regression, Deep Learning, Normalization, LSTM architecture<br/>"
+excerpt: "#### Regression, Deep Learning, Normalization, LSTM architecture<br/>"
 collection: portfolio
 ---
 
-* Implemented feature scaling with MinMaxScalar and restructured data with 60 past stock price timesteps to predict stock price at t+1
-* Built, trained and optimized multi-layer LSTM to capture trends in google stock prices data
-* Predicted stock prices for 20 financial days using trained LSTM and  visualized real vs predicted result for evaluation. 
+<ul>
+    <li style="font-size:15px">Implemented feature scaling with MinMaxScalar and restructured data with 60 past stock price timesteps to predict stock price at t+1
+    <li style="font-size:15px">Built, trained and optimized multi-layer LSTM to capture trends in google stock prices data
+    <li style="font-size:15px">Predicted stock prices for 20 financial days using trained LSTM and  visualized real vs predicted result for evaluation 
+</u>
 
 <p>
     <img src="https://img.shields.io/badge/Python-green" alt="Python">

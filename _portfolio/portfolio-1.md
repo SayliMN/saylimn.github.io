@@ -1,6 +1,6 @@
 ---
 title: "### User Interface identifies images of world renowned businessmen"
-excerpt: "#### Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization</p><br/>"
+excerpt: "#### Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization<br/>"
 collection: portfolio
 ---
 <ul>
