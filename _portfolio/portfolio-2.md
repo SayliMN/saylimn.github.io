@@ -8,7 +8,7 @@ collection: portfolio
     <li style="font-size:15px">Implemented feature scaling with MinMaxScalar and restructured data with 60 past stock price timesteps to predict stock price at t+1</li>
     <li style="font-size:15px">Built, trained and optimized multi-layer LSTM to capture trends in google stock prices data</li>
     <li style="font-size:15px">Predicted stock prices for 20 financial days using trained LSTM and  visualized real vs predicted result for evaluation</li> 
-</u>
+</ul>
 
 <p style="margin-top:10px">
     <img src="https://img.shields.io/badge/Python-green" alt="Python">
