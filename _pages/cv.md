@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ### Education
-<ul>
+<ul style="text-align: justify;">
     <li style="font-size:15px">M.S. in Computer Science, University of Georgia, USA (2020)
       <ul style="font-size:15px">
         <li>Coursework: Machine Learning, Privacy-Preserving Data Analysis, Algorithms, Biomedical Informatics, Cloud Computing, Database Management Systems</li>
@@ -21,7 +21,7 @@ redirect_from:
 
 ### Relevant Experience
 
-<ul>
+<ul style="text-align: justify;">
     <li style="font-size:15px">Data Analyst - Machine Learning (2020 - 2022)
       <ul style="font-size:15px">
         <li>Location: Clinical Affective Neuroscience Laboratory, UGA, USA</li>
@@ -55,7 +55,7 @@ redirect_from:
 
 ### Skills
 
-<ul style="font-size:15px">
+<ul style="font-size:15px; text-align: justify;">
     <li style="font-size:15px">Languages: Python, SQL, R, JavaScript</li>
     <li style="font-size:15px">Frameworks and libraries: TensorFlow, Keras, OpenCV, NLTK, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Serverless</li>
     <li style="font-size:15px">Dev Tools: VS code, Jupyter Notebook, Tableau, PyCharm</li>
@@ -66,7 +66,7 @@ redirect_from:
 
 ### Publications
 
-<ul>
+<ul style="text-align: justify;">
   <li style="font-size:15px">Sayli M Narkhede*, Lauren Luther*, Ian M Raugh*, Anna R Knippenberg*, Farnaz Zamani Esfahlani, Hiroki Sayama, Alex S Cohen, Brian Kirkpatrick, Gregory P Strauss*. <a href="https://pubmed.ncbi.nlm.nih.gov/34915570/">"Machine Learning Identifies Digital Phenotyping Measures Most Relevant to Negative Symptoms in Psychotic Disorders: Implications for Clinical Trials."</a><i> Schizophrenia Bulletin</i> (2022)</li>
 </ul>
   
