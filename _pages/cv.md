@@ -56,24 +56,45 @@ redirect_from:
 ### Skills
 
 <p style="margin-top:10px">
-    <img src="https://img.shields.io/badge/Python-emerald" alt="Python">
-    <img src="https://img.shields.io/badge/SQL-green" alt="SQL">
-    <img src="https://img.shields.io/badge/R-olive" alt="NLTK">
-    <img src="https://img.shields.io/badge/JavaScript-pear" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Python-lavender" alt="Python">
+    <img src="https://img.shields.io/badge/SQL-lavender" alt="SQL">
+    <img src="https://img.shields.io/badge/R-lavender" alt="NLTK">
+    <img src="https://img.shields.io/badge/JavaScript-lavender" alt="JavaScript">
 </p>
-<p style="margin-top:10px">
+<p style="margin-top:-10px">
     <img src="https://img.shields.io/badge/TensorFlow-royalblue" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/Keras-sapphire" alt="Keras">
-    <img src="https://img.shields.io/badge/OpenCV-midnightblue" alt="OpenCV">
-    <img src="https://img.shields.io/badge/nltk-navyblue" alt="nltk">
-    <img src="https://img.shields.io/badge/PyTorch-darkblue" alt="PyTorch">
-    <img src="https://img.shields.io/badge/Sklearn-dukeblue" alt="Scikit-Learn">
-    <img src="https://img.shields.io/badge/NumPy-darkpowderblue" alt="NumPy">
-    <img src="https://img.shields.io/badge/Pandas-ceruleanblue" alt="Pandas">
-    <img src="https://img.shields.io/badge/Matplotlib-blue" alt="Matplotlib">
-    <img src="https://img.shields.io/badge/Seaborn-ceil" alt="Seaborn">
+    <img src="https://img.shields.io/badge/Keras-royalblue" alt="Keras">
+    <img src="https://img.shields.io/badge/OpenCV-royalblue" alt="OpenCV">
+    <img src="https://img.shields.io/badge/nltk-royalblue" alt="nltk">
+    <img src="https://img.shields.io/badge/PyTorch-royalblue" alt="PyTorch">
+    <img src="https://img.shields.io/badge/Sklearn-royalblue" alt="Scikit-Learn">
+    <img src="https://img.shields.io/badge/NumPy-royalblue" alt="NumPy">
+    <img src="https://img.shields.io/badge/Pandas-royalblue" alt="Pandas">
+    <img src="https://img.shields.io/badge/Matplotlib-royalblue" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-royalblue" alt="Seaborn">
 </p>
-
+<p style="margin-top:-10px">
+    <img src="https://img.shields.io/badge/VS%20code-teal" alt="VScode">
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-teal" alt="Jupyter Notebook">
+    <img src="https://img.shields.io/badge/Tableau-teal" alt="Tableau">
+    <img src="https://img.shields.io/badge/PyCharm-teal" alt="PyCharm">
+</p>
+<p style="margin-top:-10px">
+    <img src="https://img.shields.io/badge/Git-olive" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-olive" alt="GitHub">
+</p>
+<p style="margin-top:-10px">
+    <img src="https://img.shields.io/badge/AWS%20Lambda-royalblue" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/Keras-royalblue" alt="Keras">
+    <img src="https://img.shields.io/badge/OpenCV-royalblue" alt="OpenCV">
+    <img src="https://img.shields.io/badge/nltk-royalblue" alt="nltk">
+    <img src="https://img.shields.io/badge/PyTorch-royalblue" alt="PyTorch">
+    <img src="https://img.shields.io/badge/Sklearn-royalblue" alt="Scikit-Learn">
+    <img src="https://img.shields.io/badge/NumPy-royalblue" alt="NumPy">
+    <img src="https://img.shields.io/badge/Pandas-royalblue" alt="Pandas">
+    <img src="https://img.shields.io/badge/Matplotlib-royalblue" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-royalblue" alt="Seaborn">
+</p>
 * Languages: Python, SQL, R, JavaScript
 * ML Frameworks and libraries: TensorFlow, Keras, OpenCV, NLTK, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib
 * Dev Tools: VS code, Jupyter Notebook, Tableau, PyCharm
