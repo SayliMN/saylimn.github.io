@@ -7,9 +7,9 @@ collection: portfolio
     <li style="font-size:15px">Built a use case for a store checkout process and handled errors with retries and saga pattern</li>
     <li style="font-size:15px">Established connection with DynamoDB tables and Lambda functions to query user and product information</li>
     <li style="font-size:15px">Implemented Step Function Callback pattern with SQS and emailed order details to the user with SNS</br></li>
-    ![flowchart](/images/project_osc.png)
 </ul>
 
+![flowchart](/images/project_osc.png)
 
 
 <p style="margin-top:10px">
