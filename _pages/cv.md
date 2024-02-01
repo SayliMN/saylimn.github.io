@@ -22,7 +22,7 @@ redirect_from:
 ### Relevant Experience
 
 <ul>
-    <li style="font-size:20px">Data Analyst - Machine Learning (2020 - 2022)
+    <li style="font-size:15px">Data Analyst - Machine Learning (2020 - 2022)
       <ul style="font-size:15px">
         <li>Location: Clinical Affective Neuroscience Laboratory, UGA, USA</li>
         <li>Supervisor: Professor Gregory Strauss</li>
@@ -46,21 +46,20 @@ redirect_from:
     </li>
 </ul>
 
-  * Location: Clinical Affective Neuroscience Laboratory, UGA, USA
-  * Supervisor: Professor Gregory Strauss
-  * Responsibilities: 
-    * Designed comprehensive experimental setups to classify the diagnostic status of Schizophrenia clinical trials and five negative symptom domains of SZ. 
-    * Performed data analysis, visualization, implemented data mining techniques and statistical analysis. 
-    * Optimized 10+ predictive models by fine-tuning hyper-parameters, and cross-validation. 
-    * Collaborated with researchers and lab members, actively contributing to discussions on future research directions.
+### Certifications 
 
-Certifications 
-======
-* Machine Learning: From Data to Decisions by MIT Professional Education (2020)
-* Data Science Masters Program by GreyAtom (2018)
+<ul style="font-size:15px">
+    <li style="font-size:15px">Machine Learning: From Data to Decisions by MIT Professional Education (2020)</li>
+    <li style="font-size:15px">Data Science Masters Program by GreyAtom (2018)</li>
+</ul>
 
-Skills
-======
+### Skills
+
+<ul style="font-size:15px">
+    <li style="font-size:15px">Machine Learning: From Data to Decisions by MIT Professional Education (2020)</li>
+    <li style="font-size:15px">Data Science Masters Program by GreyAtom (2018)</li>
+</ul>
+
 * Languages: Python, SQL, R, JavaScript
 * ML Frameworks and libraries: TensorFlow, Keras, OpenCV, NLTK, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib
 * Dev Tools: VS code, Jupyter Notebook, Tableau, PyCharm
