@@ -66,9 +66,5 @@ redirect_from:
 
 ### Publications
 
-<p style="font-size:15px">Sayli M Narkhede*, Lauren Luther*, Ian M Raugh*, Anna R Knippenberg*, Farnaz Zamani Esfahlani, Hiroki Sayama, Alex S Cohen, Brian Kirkpatrick, Gregory P Strauss*. "Machine Learning Identifies Digital Phenotyping Measures Most Relevant to Negative Symptoms in Psychotic Disorders: Implications for Clinical Trials." <i>Schizophrenia Bulletin</i> 2022</p>
-
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+<p style="font-size:15px">Sayli M Narkhede*, Lauren Luther*, Ian M Raugh*, Anna R Knippenberg*, Farnaz Zamani Esfahlani, Hiroki Sayama, Alex S Cohen, Brian Kirkpatrick, Gregory P Strauss*. <a href="https://pubmed.ncbi.nlm.nih.gov/34915570/">"Machine Learning Identifies Digital Phenotyping Measures Most Relevant to Negative Symptoms in Psychotic Disorders: Implications for Clinical Trials." </a><i>Schizophrenia Bulletin</i> 2022</p>
   
