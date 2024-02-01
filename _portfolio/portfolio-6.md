@@ -11,10 +11,10 @@ collection: portfolio
 
 <p style="margin-top:10px">
     <img src="https://img.shields.io/badge/PyCharm-olive" alt="PyCharm">
-    <img src="https://img.shields.io/badge/Serverless%20Framework-cornflowerblue" alt="Serverless Framework">
-    <img src="https://img.shields.io/badge/AWS%20Lambda-cornflowerblue" alt="AWS Lambda">
+    <img src="https://img.shields.io/badge/Serverless%20Framework-chocolate" alt="Serverless Framework">
+    <img src="https://img.shields.io/badge/AWS%20Lambda-blue" alt="AWS Lambda">
     <img src="https://img.shields.io/badge/DynamoDB-navy" alt="DynamoDB">
     <img src="https://img.shields.io/badge/Cognito-orchid" alt="Cognito">
     <img src="https://img.shields.io/badge/API%20Gateway-purple" alt="API Gateway">
-    <img src="https://img.shields.io/badge/node.js-violet" alt="node.js">
+    <img src="https://img.shields.io/badge/node.js-cornflowerblue" alt="node.js">
 </p>
