@@ -77,3 +77,10 @@ redirect_from:
     <img src="https://img.shields.io/badge/Meditation-blue" alt="Meditation">
     <img src="https://img.shields.io/badge/Sports-slateblue" alt="Sports">
 </p>
+
+### Languages
+
+<p style="margin-top:10px">
+    <img src="https://img.shields.io/badge/Marathi-darkgreen" alt="Marathi">
+    <img src="https://img.shields.io/badge/Hindi-purple" alt="Hindi">
+</p>
