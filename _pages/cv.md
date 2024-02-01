@@ -57,7 +57,7 @@ redirect_from:
 
 <ul style="font-size:15px">
     <li style="font-size:15px">Languages: Python, SQL, R, JavaScript</li>
-    <li style="font-size:15px">DML Frameworks and libraries: TensorFlow, Keras, OpenCV, NLTK, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib</li>
+    <li style="font-size:15px">Frameworks and libraries: TensorFlow, Keras, OpenCV, NLTK, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Serverless</li>
     <li style="font-size:15px">Dev Tools: VS code, Jupyter Notebook, Tableau, PyCharm</li>
     <li style="font-size:15px">Dev Ops: Git, Github</li>
     <li style="font-size:15px">AWS Services / Cloud: AWS Lambda, API Gateway, Cognito, DynamoDB, EventBridge, Stacks, CloudWatch, Step Function</li>
@@ -65,8 +65,10 @@ redirect_from:
 </ul>
 
 ### Publications
-======
-  <ul>{% for post in site.publications %}
+
+<p style="font-size:15px">Sayli M Narkhede*, Lauren Luther*, Ian M Raugh*, Anna R Knippenberg*, Farnaz Zamani Esfahlani, Hiroki Sayama, Alex S Cohen, Brian Kirkpatrick, Gregory P Strauss*. "Machine Learning Identifies Digital Phenotyping Measures Most Relevant to Negative Symptoms in Psychotic Disorders: Implications for Clinical Trials." <i>Schizophrenia Bulletin</i> 2022</p>
+
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
