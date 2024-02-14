@@ -11,7 +11,7 @@ collection: portfolio
 
 ![flowchart](/images/leadersClassifier.png)
 <!-- <p>
-    <img src="/images/leadersClassifier.png" alt="UI image">
+    <img src="/images/leadersClassifier.png" alt="UI image"></br>
 </p> -->
 
 <p style="margin-top:10px">
