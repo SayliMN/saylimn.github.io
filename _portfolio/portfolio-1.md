@@ -10,6 +10,9 @@ collection: portfolio
 </ul>
 
 ![flowchart](/images/leadersClassifier.png)
+<!-- <p>
+    <img src="/images/leadersClassifier.png" alt="UI image">
+</p> -->
 
 <p style="margin-top:10px">
     <img src="https://img.shields.io/badge/Python-green" alt="Python">
