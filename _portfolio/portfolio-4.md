@@ -4,8 +4,8 @@ excerpt: "#### GloVe, Word2Vec<br/>"
 collection: portfolio
 ---
 <ul>
-    <li style="font-size:15px">Find word analogies and nearest neighbors with pairwise distances using pretrained GloVe vectors.</li>
-    <li style="font-size:15px">Find word analogies and nearest neighbors with cosine similarity using pretrained Word2Vec vectors.</li>
+    <li style="font-size:15px">Found word analogies and nearest neighbors with pairwise distances using pretrained GloVe vectors.</li>
+    <li style="font-size:15px">Established word analogies and nearest neighbors with cosine similarity using pretrained Word2Vec vectors.</li>
 </ul>
 
 <p style="margin-top:10px">
