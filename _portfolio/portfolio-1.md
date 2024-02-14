@@ -9,6 +9,8 @@ collection: portfolio
     <li style="font-size:15px">Optimized multiple classifiers with gridSearchCV to improve performance and the computational cost, finally selecting best performing SVC model for classification</li>
 </ul>
 
+![flowchart](/images/leadersClassifier.png)
+
 <p style="margin-top:10px">
     <img src="https://img.shields.io/badge/Python-green" alt="Python">
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange" alt="Jupyter Notebook">
