@@ -6,10 +6,12 @@ collection: portfolio
 <h4>Keywords: Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization</h4>
 
 <p style="font-size:15px">
-    * Developed simple UI web service and an optimized image classifier that classifies web scraped images of 5 business leaders, displaying their classification scores on UI
-    * Created and labeled cropped images dataset and performed feature extraction with wavelet transform
-    * Optimized multiple classifiers with gridSearchCV to improve performance and the computational cost, finally selecting best performing SVC model for classification
-</p>
+    1. Developed simple UI web service and an optimized image classifier that classifies web scraped images of 5 business leaders, displaying their classification scores on UI</p>
+<p style="font-size:15px">
+    2. Created and labeled cropped images dataset and performed feature extraction with wavelet transform</p>
+<p style="font-size:15px">
+    3. Optimized multiple classifiers with gridSearchCV to improve performance and the computational cost, finally selecting best performing SVC model for classification</p>
+
 <!-- <ul>
     <li style="font-size:15px">Developed simple UI web service and an optimized image classifier that classifies web scraped images of 5 business leaders, displaying their classification scores on UI.</li>
     <li style="font-size:15px">Created and labeled cropped images dataset and performed feature extraction with wavelet transform</li>
