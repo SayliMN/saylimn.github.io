@@ -3,6 +3,7 @@ title: "### Machine learning for psychotic disorders clinical trials"
 # excerpt: "#### Classification, Clinical trials, Predictive modeling, Data visualization, Data mining<br/>"
 collection: portfolio
 ---
+<h5>Classification, Clinical trials, Predictive modeling, Data visualization, Data mining</h5>
 <ul>
     <li style="font-size:15px">Performed feature selection across 9 machine learning models and statistical tests to comprehensively assess and identify the most relevant predictors in Schizophrenia diagnosis</li>
     <li style="font-size:15px">Optimized classifiers and feature selection models by fine-tuning hyper-parameters with randomizedSearchCV and implementing cross-validation techniques</li>

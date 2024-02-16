@@ -3,7 +3,7 @@ title: "### Google stock price prediction"
 # excerpt: "#### Regression, Deep Learning, Normalization, LSTM architecture<br/>"
 collection: portfolio
 ---
-<h3>Regression, Deep Learning, Normalization, LSTM architecture</h3>
+<h5>Regression, Deep Learning, Normalization, LSTM architecture</h5>
 <ul>
     <li style="font-size:15px">Implemented feature scaling with MinMaxScalar and restructured data with 60 past stock price timesteps to predict stock price at t+1</li>
     <li style="font-size:15px">Built, trained and optimized multi-layer LSTM to capture trends in google stock prices data</li>

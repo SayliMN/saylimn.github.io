@@ -3,6 +3,7 @@ title: "### Event-driven web application with backend and frontend connectivity"
 # excerpt: "#### System design, REST API, Serverless Architecture, CRUD operations, Backend, User Acceptance Tests<br/>"
 collection: portfolio
 ---
+<h5>System design, REST API, Serverless Architecture, CRUD operations, Backend, User Acceptance Tests</h5>
 <ul>
     <li style="font-size:15px">Built a synchronous communication web flow, implementing endpoints for create, read, update, and delete operations with AWS services provisioned by Serverless Framework</li>
     <li style="font-size:15px">Implemented AWS Cognito User Pool Authorizer and IAM policy for Access Control</li>

@@ -3,6 +3,7 @@ title: "### Exploring an online store checkout process step-by-step"
 # excerpt: "#### System design use case, Backend<br/>"
 collection: portfolio
 ---
+<h5>Serverless architecture, System design use case, Backend</h5>
 <ul>
     <li style="font-size:15px">Built a use case for a store checkout process and handled errors with retries and saga pattern</li>
     <li style="font-size:15px">Established connection with DynamoDB tables and Lambda functions to query user and product information</li>
