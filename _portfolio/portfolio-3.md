@@ -1,6 +1,6 @@
 ---
 title: "### Machine learning for psychotic disorders clinical trials"
-excerpt: "#### Classification, Clinical trials, Predictive modeling, Data visualization, Data mining<br/>"
+# excerpt: "#### Classification, Clinical trials, Predictive modeling, Data visualization, Data mining<br/>"
 collection: portfolio
 ---
 <ul>

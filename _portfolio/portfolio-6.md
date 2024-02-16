@@ -1,6 +1,6 @@
 ---
 title: "### Event-driven web application with backend and frontend connectivity"
-excerpt: "#### System design, REST API, Serverless Architecture, CRUD operations, Backend, User Acceptance Tests<br/>"
+# excerpt: "#### System design, REST API, Serverless Architecture, CRUD operations, Backend, User Acceptance Tests<br/>"
 collection: portfolio
 ---
 <ul>

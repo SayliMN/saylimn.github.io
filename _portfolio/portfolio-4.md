@@ -1,6 +1,6 @@
 ---
 title: "### Word analogies and word embeddings in NLP"
-excerpt: "#### GloVe, Word2Vec<br/>"
+# excerpt: "#### GloVe, Word2Vec<br/>"
 collection: portfolio
 ---
 <ul>

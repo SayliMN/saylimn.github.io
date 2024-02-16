@@ -1,6 +1,6 @@
 ---
 title: "### Exploring an online store checkout process step-by-step"
-excerpt: "#### System design use case, Backend<br/>"
+# excerpt: "#### System design use case, Backend<br/>"
 collection: portfolio
 ---
 <ul>
