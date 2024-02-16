@@ -3,7 +3,7 @@ title: "### User Interface identifies images of world renowned businessmen"
 # excerpt: "#### Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization<br/>"
 collection: portfolio
 ---
-<h4 style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization</h4>
+<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization</p>
 
 <p style="font-size:15px">
     1. Developed simple UI web service and an optimized image classifier that classifies web scraped images of 5 business leaders, displaying their classification scores on UI</p>

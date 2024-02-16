@@ -3,12 +3,20 @@ title: "### Exploring an online store checkout process step-by-step"
 # excerpt: "#### System design use case, Backend<br/>"
 collection: portfolio
 ---
-<h5>Serverless architecture, System design use case, Backend</h5>
-<ul>
-    <li style="font-size:15px">Built a use case for a store checkout process and handled errors with retries and saga pattern</li>
-    <li style="font-size:15px">Established connection with DynamoDB tables and Lambda functions to query user and product information</li>
-    <li style="font-size:15px">Implemented Step Function Callback pattern with SQS and emailed order details to the user with SNS</br></li>
-</ul>
+
+<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Serverless architecture, System design use case, Backend</p>
+
+
+<p style="font-size:15px">
+    1. Built a use case for a store checkout process and handled errors with retries and saga pattern
+</p>
+<p style="font-size:15px">
+    2. Established connection with DynamoDB tables and Lambda functions to query user and product information
+</p>
+<p style="font-size:15px">
+    3. Implemented Step Function Callback pattern with SQS and emailed order details to the user with SNS
+</p>
+
 
 ![flowchart](/images/project_osc.png)
 

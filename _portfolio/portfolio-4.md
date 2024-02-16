@@ -3,11 +3,18 @@ title: "### Word analogies and word embeddings in NLP"
 # excerpt: "#### GloVe, Word2Vec<br/>"
 collection: portfolio
 ---
-<h5>GloVe, Word2Vec</h5>
-<ul>
-    <li style="font-size:15px">Found word analogies and nearest neighbors with pairwise distances using pretrained GloVe vectors.</li>
-    <li style="font-size:15px">Established word analogies and nearest neighbors with cosine similarity using pretrained Word2Vec vectors.</li>
-</ul>
+
+<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: GloVe, Word2Vec</p>
+
+
+<p style="font-size:15px">
+    1. Found word analogies and nearest neighbors with pairwise distances using pretrained GloVe vectors
+</p>
+<p style="font-size:15px">
+    2. Established word analogies and nearest neighbors with cosine similarity using pretrained Word2Vec vectors
+</p>
+
+
 
 <p style="margin-top:10px">
     <img src="https://img.shields.io/badge/Python-green" alt="Python">
