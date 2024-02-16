@@ -17,8 +17,12 @@ collection: portfolio
     <li style="font-size:15px">Created and labeled cropped images dataset and performed feature extraction with wavelet transform</li>
     <li style="font-size:15px">Optimized multiple classifiers with gridSearchCV to improve performance and the computational cost, finally selecting best performing SVC model for classification</li>
 </ul> -->
+img[alt=UIclassifier] { display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        width: 500px; }
 
-![flowchart](/images/leadersClassifier.png)
+![UIclassifier](/images/leadersClassifier.png) 
 <!-- <p>
     <img src="/images/leadersClassifier.png" alt="UI image"></br>
 </p> -->
