@@ -69,6 +69,16 @@ redirect_from:
 <ul style="text-align: justify;">
   <li style="font-size:15px">Sayli M Narkhede*, Lauren Luther*, Ian M Raugh*, Anna R Knippenberg*, Farnaz Zamani Esfahlani, Hiroki Sayama, Alex S Cohen, Brian Kirkpatrick, Gregory P Strauss*. <a href="https://pubmed.ncbi.nlm.nih.gov/34915570/">"Machine Learning Identifies Digital Phenotyping Measures Most Relevant to Negative Symptoms in Psychotic Disorders: Implications for Clinical Trials."</a><i> Schizophrenia Bulletin</i> (2022)</li>
 </ul>
+
+### Extracurricular Activities 
+
+<ul style="text-align: justify;">
+  <li style="font-size:15px"><b>Executive member</b>, Indian Student Association, UGA (2019)</li>
+  <li style="font-size:15px"><b>Chairperson</b>, IETE Students forum, EXTC, SSJCET (2014 - 2015)</li>
+  <li style="font-size:15px"><b>Secretary<b>, IETE Students forum, EXTC, SSJCET (2013 - 2014)</li>
+  <li style="font-size:15px"><b>Fencing</b>, State gold and bronze medalist (2011, 2009)</li>
+  <li style="font-size:15px"><b>Jump Rope</b>, National bronze medalist (2009)</li> 
+</ul>
   
 ### Interests
 
