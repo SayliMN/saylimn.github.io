@@ -3,7 +3,9 @@ title: "### User Interface identifies images of world renowned businessmen"
 # excerpt: "#### Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization<br/>"
 collection: portfolio
 ---
-<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization</p>
+<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Image classification, UI, Assessment of models, Preprocessing, Feature engineering, Visualization
+<a style="font-size:12px;" href="https://github.com/SayliMN/LeadersClassifier" target="_blank">Github</a>
+</p>
 
 <p style="font-size:15px">
     1. Developed simple UI web service and an optimized image classifier that classifies web scraped images of 5 business leaders, displaying their classification scores on UI</p>
@@ -18,7 +20,7 @@ collection: portfolio
 ![UIclassifier](/images/leadersClassifier.png)  -->
 
 <p>
-    <img src="/images/leadersClassifier.png" alt="UI image" style="display: block; margin-left: auto; margin-right: auto; width: 500px;"></br>
+    <img src="/images/leadersClassifier.png" alt="UI image" style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
 </p>
 
 
@@ -30,4 +32,8 @@ collection: portfolio
     <img src="https://img.shields.io/badge/PyWavelets-orchid" alt="PyWavelets">
     <img src="https://img.shields.io/badge/Sklearn-purple" alt="Scikit-Learn">
     <img src="https://img.shields.io/badge/Matplotlib-violet" alt="Matplotlib">
+</p>
+
+<p>
+
 </p>
