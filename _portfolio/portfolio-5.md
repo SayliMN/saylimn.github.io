@@ -4,7 +4,7 @@ title: "### Classification of IDC in Breast Cancer Histopathology Images"
 collection: portfolio
 ---
 
-<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Image classification, Convolutional Neural Network, Optimizers, Machine learning algorithms </p>
+<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Image classification, Convolutional neural network, Optimizers, Machine learning algorithms, Visualization, Image processing </p>
 
 
 <p style="font-size:15px">
@@ -19,9 +19,7 @@ collection: portfolio
 <p style="margin-top:10px">
     <img src="https://img.shields.io/badge/Python-green" alt="Python">
     <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange" alt="Jupyter Notebook">
-    <img src="https://img.shields.io/badge/nltk-cornflowerblue" alt="NLTK">
-    <img src="https://img.shields.io/badge/gensim-navy" alt="gensim">
-    <img src="https://img.shields.io/badge/GloVe-orchid" alt="GloVe">
-    <img src="https://img.shields.io/badge/Sklearn-purple" alt="Scikit-Learn">
-    <img src="https://img.shields.io/badge/Word2Vec-violet" alt="Word2Vec">
+    <img src="https://img.shields.io/badge/Google%20Colab-cornflowerblue" alt="Google Colab">
+    <img src="https://img.shields.io/badge/Keras-navy" alt="Keras">
+    <img src="https://img.shields.io/badge/OpenCV-orchid" alt="OpenCV">
 </p>
