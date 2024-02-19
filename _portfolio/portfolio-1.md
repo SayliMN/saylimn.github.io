@@ -30,7 +30,7 @@ collection: portfolio
     <img src="/images/face_recognition_after_wavelet.png" alt="UI image" style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
 </p>
 <p style="font-size:12px; color:grey; font-style: italic; text-align: center;">Fig. 3. The user interface correctly identifies images of leaders, displaying both the name and the probability score
-    <img src="/images/leaders_classifier_result.png" alt="Classification probability" style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
+    <img src="/images/leaders_classifier_Result.png" alt="Classification probability" style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
 </p>
 
 
