@@ -4,7 +4,9 @@ title: "### Exploring an online store checkout process step-by-step"
 collection: portfolio
 ---
 
-<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Serverless architecture, System design use case, Backend</p>
+<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Serverless architecture, System design use case, Backend
+<a style="font-size:12px;" href="https://github.com/SayliMN/SFN" target="_blank">Github</a>
+</p>
 
 
 <p style="font-size:15px">

@@ -3,7 +3,9 @@ title: "### Google stock price prediction"
 # excerpt: "#### Regression, Deep Learning, Normalization, LSTM architecture<br/>"
 collection: portfolio
 ---
-<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Regression, Deep learning, Normalization, LSTM architecture</p>
+<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: Regression, Deep learning, Normalization, LSTM architecture
+<a style="font-size:12px;" href="https://github.com/SayliMN/google_stock_price_prediction" target="_blank">Github</a>
+</p>
 
 
 <p style="font-size:15px">

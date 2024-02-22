@@ -4,7 +4,9 @@ title: "### Event-driven web application with backend and frontend connectivity"
 collection: portfolio
 ---
 
-<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: System design, REST API, Serverless Architecture, CRUD operations, Backend, User Acceptance Tests</p>
+<p style="font-size:15px; color:gray; font-style: italic; margin-top: 25px;">Keywords: System design, REST API, Serverless Architecture, CRUD operations, Backend, User Acceptance Tests
+<a style="font-size:12px;" href="https://github.com/SayliMN/sls-rest-api" target="_blank">Github</a>
+</p>
 
 
 <p style="font-size:15px">
