@@ -26,7 +26,7 @@ redirect_from:
     <li style="font-size:15px">Data Analyst - Machine Learning (2020 - 2022)
       <ul style="font-size:15px">
         <li>Location: Clinical Affective Neuroscience Laboratory, UGA, USA</li>
-        <li>Supervisor: Professor Gregory Strauss</li>
+        <li>Supervisor: Dr. Gregory P. Strauss</li>
         <li>Responsibilities: 
           <ul style="font-size:15px">
             <li>Designed comprehensive experimental setups to analyze psychotic clinical trials datasets for research purposes using machine learning and tools</li>
@@ -60,7 +60,7 @@ redirect_from:
 
 <ul style="font-size:15px; text-align: justify;">
     <li style="font-size:15px">Languages: Python, SQL, R, JavaScript</li>
-    <li style="font-size:15px">Frameworks and libraries: TensorFlow, Keras, OpenCV, NLTK, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Serverless</li>
+    <li style="font-size:15px">Frameworks and libraries: TensorFlow, Keras, OpenCV, NLTK, PyTorch, Scikit-Learn, NumPy, Pandas, Matplotlib, Seaborn, cv2, Serverless</li>
     <li style="font-size:15px">Dev Tools: VS code, Jupyter Notebook, Tableau, PyCharm</li>
     <li style="font-size:15px">Dev Ops: Git, Github</li>
     <li style="font-size:15px">AWS Services / Cloud: AWS Lambda, API Gateway, Cognito, DynamoDB, EventBridge, Stacks, CloudWatch, Step Function</li>
