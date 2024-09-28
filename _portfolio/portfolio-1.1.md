@@ -8,7 +8,7 @@ collection: portfolio
 </p>
 
 <p style="font-size:15px">
-    1. Generated poetry predictions for Robert Frost data using a highly efficient dual Recurrent Neural Network, LSTM model, GloVe pre-trained word embeddings, and one-hot encoding for target sequences.</p>
+    1. Generated poetry predictions for Robert Frost data by building and implementing a highly efficient dual Recurrent Neural Network using Keras, Python, LSTM, GloVe pre-trained word embeddings, and one-hot encoding for target sequences.</p>
 <p style="font-size:15px">
     2. Performed teacher forcing during training by feeding an accurate previous word into the decoder to predict the next word accurately based on the sequence.</p>
 
