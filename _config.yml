@@ -83,10 +83,10 @@ author:
   name             : "Sayli Narkhede"
   avatar           : "profile.jpeg"
   bio              : "Data and ML Enthusiast"
-  location         : "Seattle, WA"
+  location         : "Maharashtra, India"
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=h7oCvEkAAAAJ&hl=en"
   email            : "saylinarkhede09@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sayli-narkhede"
+  linkedin         : #"sayli-narkhede"
   orcid            : 
   pinterest        :
   soundcloud       :
