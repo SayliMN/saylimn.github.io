@@ -10,6 +10,9 @@ author_profile: true
 </ul>
 
 
-<p style="font-size:12px; color:grey; font-style: italic; text-align: center;">Fig. 1. Machine Learning Analysis
-    <img src="/images/ML analysis_1.png" alt="Machine Learning Analysis" style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
+<p style="font-size:12px; color:grey; font-style: italic; text-align: center;">Fig. 1. Machine Learning Data Acquisition
+    <img src="/images/data_acquisition.png" alt="Machine Learning Analysis" style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
+</p>
+<p style="font-size:12px; color:grey; font-style: italic; text-align: center;">Fig. 2. Machine Learning Data Analysis
+    <img src="/images/data_analysis.png" alt="Machine Learning Analysis" style="display: block; margin-left: auto; margin-right: auto; width: 500px;">
 </p>
