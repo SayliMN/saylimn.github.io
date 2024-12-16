@@ -13,7 +13,7 @@ redirect_from:
 <ul style="text-align: justify;">
     <li style="font-size:15px">M.S. in Computer Science, University of Georgia, USA (2020)
       <ul style="font-size:15px">
-        <li>Coursework: Machine Learning, Privacy-Preserving Data Analysis, Algorithms, Biomedical Informatics, Cloud Computing, Database Management Systems</li>
+        <li>Coursework: Machine Learning, Biomedical Informatics, Privacy-Preserving Data Analysis, Algorithms, Cloud Computing, Database Management Systems</li>
       </ul>
     </li>
     <li style="font-size:15px">B.E. in Electronics and Telecommunication, University of Mumbai, India (2015)</li>
@@ -42,6 +42,8 @@ redirect_from:
           <img src="https://img.shields.io/badge/Hypothesis%20testing-orchid" alt="Hypothesis Testing">
           <img src="https://img.shields.io/badge/Sklearn-purple" alt="Scikit-Learn">
           <img src="https://img.shields.io/badge/Matplotlib-violet" alt="Matplotlib">
+          <img src="https://img.shields.io/badge/Matplotlib-green" alt="Pandas">
+          <img src="https://img.shields.io/badge/Matplotlib-slateblue" alt="NumPy">
       </p>
       </ul>
     </li>
@@ -52,7 +54,7 @@ redirect_from:
 
 <ul style="font-size:15px">
     <li style="font-size:15px">Machine Learning: From Data to Decisions by MIT Professional Education (2020)</li>
-    <li style="font-size:15px">Data Science Masters Program by GreyAtom (2018)</li>
+    <li style="font-size:15px">Data Science Program by GreyAtom (2018)</li>
 </ul>
 
 
@@ -71,13 +73,14 @@ redirect_from:
 ### Publications
 
 <ul style="text-align: justify;">
-  <li style="font-size:15px">Sayli M Narkhede*, Lauren Luther*, Ian M Raugh*, Anna R Knippenberg*, Farnaz Zamani Esfahlani, Hiroki Sayama, Alex S Cohen, Brian Kirkpatrick, Gregory P Strauss*. <a href="https://pubmed.ncbi.nlm.nih.gov/34915570/">"Machine Learning Identifies Digital Phenotyping Measures Most Relevant to Negative Symptoms in Psychotic Disorders: Implications for Clinical Trials."</a><i> Schizophrenia Bulletin</i> (2022)</li>
+  <li style="font-size:15px">Sayli M Narkhede*, Lauren Luther*, Ian M Raugh*, Anna R Knippenberg*, Farnaz Zamani Esfahlani, Hiroki Sayama, Alex S Cohen, Brian Kirkpatrick, Gregory P Strauss*. <a href="https://pubmed.ncbi.nlm.nih.gov/34915570/">"Machine Learning Identifies Digital Phenotyping Measures Most Relevant to Negative Symptoms in Psychotic Disorders: Implications for Clinical Trials."</a><i> Schizophrenia Bulletin</i> (2022) <a style="font-size:11px;" href="../files/Research_Paper_1.pdf" download>Download Research Paper</a></li>
 </ul>
 
 
 ### Extracurricular Activities 
 
 <ul style="text-align: justify;">
+  <li style="font-size:15px"><b>Volunteer in Isha Foundation</b>, <i>Indian Student Association, UGA</i> (2022)</li>
   <li style="font-size:15px"><b>Executive member</b>, <i>Indian Student Association, UGA</i> (2019)</li>
   <li style="font-size:15px"><b>Chairperson</b>, <i>IETE Students forum, EXTC, SSJCET</i> (2014 - 2015)</li>
   <li style="font-size:15px"><b>Secretary</b>, <i>IETE Students forum, EXTC, SSJCET</i> (2013 - 2014)</li>
