@@ -80,7 +80,7 @@ redirect_from:
 ### Extracurricular Activities 
 
 <ul style="text-align: justify;">
-  <li style="font-size:15px"><b>Volunteer in Isha Foundation</b>, <i>Indian Student Association, UGA</i> (2022)</li>
+  <li style="font-size:15px"><b>Volunteer</b>, <i>Isha Foundation, IYC and Isha Institute of Inner Sciences, Tennessee</i> (2022)</li>
   <li style="font-size:15px"><b>Executive member</b>, <i>Indian Student Association, UGA</i> (2019)</li>
   <li style="font-size:15px"><b>Chairperson</b>, <i>IETE Students forum, EXTC, SSJCET</i> (2014 - 2015)</li>
   <li style="font-size:15px"><b>Secretary</b>, <i>IETE Students forum, EXTC, SSJCET</i> (2013 - 2014)</li>
