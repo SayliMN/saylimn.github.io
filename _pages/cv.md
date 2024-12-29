@@ -42,8 +42,8 @@ redirect_from:
           <img src="https://img.shields.io/badge/Hypothesis%20testing-orchid" alt="Hypothesis Testing">
           <img src="https://img.shields.io/badge/Sklearn-purple" alt="Scikit-Learn">
           <img src="https://img.shields.io/badge/Matplotlib-violet" alt="Matplotlib">
-          <img src="https://img.shields.io/badge/Matplotlib-green" alt="Pandas">
-          <img src="https://img.shields.io/badge/Matplotlib-slateblue" alt="NumPy">
+          <img src="https://img.shields.io/badge/Pandas-green" alt="Pandas">
+          <img src="https://img.shields.io/badge/NumPy-slateblue" alt="NumPy">
       </p>
       </ul>
     </li>
